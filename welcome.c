@@ -14,6 +14,8 @@ void main(){
   gets(name);
   printf("Hi, %s", name);
   printf("Ivide entha karyam ^_^ ");
+    
+  Printf("hacktober fest");
 
 
 }
