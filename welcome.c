@@ -8,6 +8,7 @@ void main(){
 
 
   printf("Enjoy Yourself");
+  printf ("Life is beautiful");
 
 
   printf("What's your name??");
