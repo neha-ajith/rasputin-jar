@@ -9,7 +9,7 @@ void main(){
 
   printf("Enjoy Yourself");
   printf ("Life is beautiful");
-
+  printf ("Be happy:)");
 
   printf("What's your name??");
   gets(name);
