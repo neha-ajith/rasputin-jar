@@ -15,7 +15,7 @@ void main(){
   printf("Hi, %s", name);
   printf("Ivide entha karyam ^_^ ");
     
-  Printf("hacktober fest");
+  printf("hacktober fest");
 
 
 }
