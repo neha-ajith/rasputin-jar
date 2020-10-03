@@ -6,6 +6,7 @@ void main(){
   printf("Ivide entha karyam ^_^ ");
   printf("verthe vannatha")
   printf ("Athenthina verute vannath");
+  printf ("Angane verute varanda");
 
 
   printf("Enjoy Yourself");
