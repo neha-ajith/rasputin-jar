@@ -4,7 +4,8 @@ void main(){
   printf("Welcome to HacktoberFest 2020!!!");
 
   printf("Ivide entha karyam ^_^ ");
-  printf("verthe vannatha")
+  printf("verthe vannatha");
+  printf("angane verthe varan ith pothuvazhi alla!");
 
 
   printf("Enjoy Yourself");
