@@ -20,5 +20,7 @@ void main(){
     
   printf("hacktober fest");
 
+  printf("Njanum vannotte?? :)");
+
 
 }
